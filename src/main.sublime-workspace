@@ -1,0 +1,356 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"veh",
+				"vehicle_in"
+			],
+			[
+				"part",
+				"part_in"
+			],
+			[
+				"status",
+				"status_in"
+			],
+			[
+				"co",
+				"coverID"
+			],
+			[
+				"en",
+				"encodeValue"
+			],
+			[
+				"p",
+				"payload"
+			],
+			[
+				"sob",
+				"sobelY"
+			],
+			[
+				"sobel",
+				"sobelX"
+			],
+			[
+				"so",
+				"sobelX"
+			],
+			[
+				"thr",
+				"thresholding"
+			],
+			[
+				"im",
+				"imshow"
+			],
+			[
+				"plot",
+				"plot_histogram"
+			],
+			[
+				"ma",
+				"masked"
+			],
+			[
+				"re",
+				"resize"
+			],
+			[
+				"c",
+				"circles"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"cur",
+				"curString"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "markdow",
+		"selected_items":
+		[
+			[
+				"markdow",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 557.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/alan.gordon/Documents/Alan/SelfDrivingCarEngineer/Term1/SelfDrivingCar-Term1-Proj5/.git/COMMIT_EDITMSG",
+		"/Users/alan.gordon/Documents/Alan/SelfDrivingCarEngineer/Term1/SelfDrivingCar-Term1-Proj5/README.md",
+		"/Users/alan.gordon/Documents/Alan/SelfDrivingCarEngineer/Term1/SelfDrivingCar-Term1-Proj4/proj4.py",
+		"/Users/alan.gordon/Documents/Alan/SelfDrivingCarEngineer/Term1/project5/CarND-Vehicle-Detection/README.md",
+		"/Users/alan.gordon/Documents/Alan/SelfDrivingCarEngineer/Term1/SelfDrivingCar-Term1-Proj4/README.md",
+		"/Users/alan.gordon/Documents/Alan/SelfDrivingCarEngineer/Term1/SelfDrivingCar-Term1-Proj2/Traffic_Sign_Classifier.ipynb",
+		"/Users/alan.gordon/Documents/Alan/SelfDrivingCarEngineer/Term1/SelfDrivingCar-Term1-Proj1/P1.ipynb",
+		"/Users/alan.gordon/Documents/Alan/SelfDrivingCarEngineer/Term1/Project3/CarND-Behavioral-Cloning-P3/proj3.py",
+		"/Users/alan.gordon/Documents/Alan/SelfDrivingCarEngineer/Term1/SelfDrivingCar-Term1-Proj2/.git/COMMIT_EDITMSG",
+		"/Users/alan.gordon/Documents/Alan/SelfDrivingCarEngineer/Term1/SelfDrivingCar-Term1-Proj2/README.md",
+		"/Users/alan.gordon/Documents/Alan/SelfDrivingCarEngineer/Term1/SelfDrivingCar-Term1-Proj2/README.d",
+		"/Users/alan.gordon/Documents/Alan/SelfDrivingCarEngineer/Term1/testproj3/SelfDrivingCar-Term1-Proj3/drive.py",
+		"/Users/alan.gordon/Documents/Alan/SelfDrivingCarEngineer/Term1/SelfDrivingCar-Term1-Proj3/drive.py",
+		"/Users/alan.gordon/Documents/Alan/SelfDrivingCarEngineer/Term1/SelfDrivingCar-Term1-Proj3/.git/COMMIT_EDITMSG",
+		"/Users/alan.gordon/Documents/Alan/SelfDrivingCarEngineer/Term1/SelfDrivingCar-Term1-Proj3/README.md",
+		"/Users/alan.gordon/Documents/Alan/SelfDrivingCarEngineer/Term1/Project3/CarND-Behavioral-Cloning-P3/writeup_template.md",
+		"/Users/alan.gordon/Documents/Alan/SelfDrivingCarEngineer/Term1/Project3/CarND-Behavioral-Cloning-P3/video.py",
+		"/Users/alan.gordon/Documents/Alan/SelfDrivingCarEngineer/Term1/SelfDrivingCar-Term1-Proj2/Traffic_Sign_Classifier other datasets.ipynb",
+		"/Users/alan.gordon/Documents/Alan/SelfDrivingCarEngineer/Term1/Project3/CarND-Behavioral-Cloning-P3/drive.py",
+		"/Users/alan.gordon/Documents/Alan/SelfDrivingCarEngineer/Term1/Project3/CarND-Behavioral-Cloning-P3/code_snippets",
+		"/Users/alan.gordon/Documents/Alan/SelfDrivingCarEngineer/Term1/Project3/CarND-Behavioral-Cloning-P3/README.md",
+		"/Users/alan.gordon/Documents/Alan/SelfDrivingCarEngineer/Term1/TransferLearning/CarND-Transfer-Learning-Lab/feature_extraction.py",
+		"/Users/alan.gordon/Documents/Alan/SelfDrivingCarEngineer/Term1/CarND-Alexnet-Feature-Extraction/TransferLearning/.git/COMMIT_EDITMSG",
+		"/Users/alan.gordon/Documents/Alan/SelfDrivingCarEngineer/Term1/CarND-Alexnet-Feature-Extraction/TransferLearning/train_feature_extraction.py",
+		"/Users/alan.gordon/Documents/Alan/SelfDrivingCarEngineer/Term1/CarND-Alexnet-Feature-Extraction/alexnet.py",
+		"/Users/alan.gordon/.bash_profile",
+		"/Users/alan.gordon/Documents/Alan/SelfDrivingCarEngineer/Term1/CarND-Alexnet-Feature-Extraction/train_feature_extraction.py",
+		"/Users/alan.gordon/Documents/Alan/SelfDrivingCarEngineer/Term1/CarND-Alexnet-Feature-Extraction/feature_extraction.py",
+		"/Users/alan.gordon/Documents/Alan/SelfDrivingCarEngineer/Term1/CarND-Alexnet-Feature-Extraction/traffic_sign_inference.py",
+		"/Users/alan.gordon/Documents/Alan/SelfDrivingCarEngineer/Term1/SelfDrivingCar-Term1-Proj2/writeup_template.md",
+		"/Users/alan.gordon/IDEO/blockbag-verify/get part list.js",
+		"/Users/alan.gordon/IDEO/blockbag-verify/GetParts.py",
+		"/Users/alan.gordon/IDEO/blockbag-verify/UpdatePart.html",
+		"/Users/alan.gordon/IDEO/blockbag-verify/recallpart.java",
+		"/Users/alan.gordon/IDEO/blockbag-verify/order.py",
+		"/Users/alan.gordon/IDEO/joiful/devmanager/profile/userdetails.html",
+		"/Users/alan.gordon/Documents/Alan/SelfDrivingCarEngineer/Term1/tensorflow/from tensorflow.contrib.layers import flatten.save",
+		"/Users/alan.gordon/Documents/Alan/SelfDrivingCarEngineer/Term1/tensorflow/testtensorflow.py",
+		"/Users/alan.gordon/Documents/Alan/PythonOpenCVBook/Practical Python and OpenCV, 3rd Edition/MyLearning/chap5/drawing.py",
+		"/Users/alan.gordon/Documents/Alan/PythonOpenCVBook/Practical Python and OpenCV, 3rd Edition/MyLearning/chap10/canny.py",
+		"/Users/alan.gordon/Documents/Alan/SelfDrivingCarEngineer/Term1/NeuralNetworks/backprop.py",
+		"/Users/alan.gordon/Documents/Alan/SelfDrivingCarEngineer/Term1/SelfDrivingCar-Term1-Proj1/colorconverter.py",
+		"/Users/alan.gordon/Documents/Alan/SelfDrivingCarEngineer/Term1/SelfDrivingCar-Term1-Proj1/testhsv.py",
+		"/Users/alan.gordon/Documents/Alan/PythonOpenCVBook/Practical Python and OpenCV, 3rd Edition/MyLearning/chap4/getting_and_setting.py",
+		"/Users/alan.gordon/Documents/Alan/SelfDrivingCarEngineer/Term1/CarND-LaneLines-P1/.gitignore",
+		"/Users/alan.gordon/Documents/Alan/SelfDrivingCarEngineer/Term1/draw_lines.py",
+		"/Users/alan.gordon/Documents/Alan/SelfDrivingCarEngineer/Term1/testproject1.py",
+		"/Users/alan.gordon/Documents/Alan/PythonOpenCVBook/Practical Python and OpenCV, 3rd Edition/MyLearning/chap9/otsu_and_riddler.py",
+		"/Users/alan.gordon/Documents/Alan/PythonOpenCVBook/Practical Python and OpenCV, 3rd Edition/MyLearning/chap9/adaptive_thresholding.py",
+		"/Users/alan.gordon/Documents/Alan/PythonOpenCVBook/Practical Python and OpenCV, 3rd Edition/MyLearning/chap11/counting_coins.py",
+		"/Users/alan.gordon/Documents/Alan/PythonOpenCVBook/Practical Python and OpenCV, 3rd Edition/MyLearning/chap10/sobel_and_laplacian.py",
+		"/Users/alan.gordon/Documents/Alan/PythonOpenCVBook/Practical Python and OpenCV, 3rd Edition/MyLearning/chap9/simple_thresholding.py",
+		"/Users/alan.gordon/Documents/Alan/PythonOpenCVBook/Practical Python and OpenCV, 3rd Edition/MyLearning/chap8/chap9/simple_thresholding.py",
+		"/Users/alan.gordon/Documents/Alan/PythonOpenCVBook/Practical Python and OpenCV, 3rd Edition/MyLearning/chap8/blurring.py",
+		"/Users/alan.gordon/Documents/Alan/PythonOpenCVBook/Practical Python and OpenCV, 3rd Edition/MyLearning/chap7/histogram_with_mask.py",
+		"/Users/alan.gordon/Documents/Alan/PythonOpenCVBook/Practical Python and OpenCV, 3rd Edition/MyLearning/chap7/blurring.py",
+		"/Users/alan.gordon/Documents/Alan/PythonOpenCVBook/Practical Python and OpenCV, 3rd Edition/MyLearning/chap7/equalize.py",
+		"/Users/alan.gordon/Documents/Alan/PythonOpenCVBook/Practical Python and OpenCV, 3rd Edition/MyLearning/chap7/color_histogram.py",
+		"/Users/alan.gordon/Documents/Alan/PythonOpenCVBook/Practical Python and OpenCV, 3rd Edition/MyLearning/chap7/grayscale_histogram.py",
+		"/Users/alan.gordon/Documents/Alan/PythonOpenCVBook/Practical Python and OpenCV, 3rd Edition/MyLearning/chap7/chap7quiz.py",
+		"/Users/alan.gordon/Documents/Alan/PythonOpenCVBook/Practical Python and OpenCV, 3rd Edition/MyLearning/chap6/masking.py",
+		"/Users/alan.gordon/Documents/Alan/PythonOpenCVBook/Practical Python and OpenCV, 3rd Edition/MyLearning/chap6/crop.py",
+		"/Users/alan.gordon/Documents/Alan/PythonOpenCVBook/Practical Python and OpenCV, 3rd Edition/MyLearning/chap6/bitwise.py",
+		"/Users/alan.gordon/Documents/Alan/PythonOpenCVBook/Practical Python and OpenCV, 3rd Edition/MyLearning/chap6/grayscale_histogram.py",
+		"/Users/alan.gordon/Documents/Alan/PythonOpenCVBook/Practical Python and OpenCV, 3rd Edition/MyLearning/chap6/flipping.py",
+		"/Users/alan.gordon/Documents/Alan/PythonOpenCVBook/Practical Python and OpenCV, 3rd Edition/MyLearning/chap6/resize.py",
+		"/Users/alan.gordon/Documents/Alan/PythonOpenCVBook/Practical Python and OpenCV, 3rd Edition/MyLearning/chap5/draw_checkerboard.py",
+		"/Users/alan.gordon/Documents/Alan/PythonOpenCVBook/Practical Python and OpenCV, 3rd Edition/MyLearning/chap6/rotate.py",
+		"/Users/alan.gordon/Documents/Alan/PythonOpenCVBook/Practical Python and OpenCV, 3rd Edition/MyLearning/chap6/arithmetic.py",
+		"/Users/alan.gordon/Documents/Alan/PythonOpenCVBook/Practical Python and OpenCV, 3rd Edition/MyLearning/chap6/colorspaces.py",
+		"/Users/alan.gordon/Documents/Alan/PythonOpenCVBook/Practical Python and OpenCV, 3rd Edition/MyLearning/chap6/splitting_and_merging.py",
+		"/Users/alan.gordon/Documents/Alan/PythonOpenCVBook/Practical Python and OpenCV, 3rd Edition/MyLearning/chap6/imutils.py",
+		"/Users/alan.gordon/Documents/Alan/PythonOpenCVBook/Practical Python and OpenCV, 3rd Edition/MyLearning/chap6/translation.py",
+		"/Users/alan.gordon/Documents/Alan/PythonOpenCVBook/Practical Python and OpenCV, 3rd Edition/MyLearning/Chapter3/load_display_save.py",
+		"/Users/alan.gordon/Documents/Alan/GIT/Book/Chapter3/helloworld.html",
+		"/Users/alan.gordon/Documents/Alan/GIT/Book/Chapter3/.git/COMMIT_EDITMSG",
+		"/Users/alan.gordon/Downloads/mysqldumpcommand.sql",
+		"/Users/alan.gordon/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/alan.gordon/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/alan.gordon/Documents/Alan/learningjavascript/chapter1/es6/main.js",
+		"/Users/alan.gordon/Documents/Alan/learningjavascript/gulpfile.js",
+		"/Users/alan.gordon/Documents/Alan/Javascript/Chapter1/index.html",
+		"/Users/alan.gordon/Documents/Alan/Javascript/Chapter1/main.css",
+		"/Users/alan.gordon/Documents/Alan/learningjavascript/.babelrc",
+		"/Users/alan.gordon/Documents/Alan/learningjavascript/chapter2/gulpfile.js",
+		"/Users/alan.gordon/Documents/Alan/Javascript/Chapter1/main.js",
+		"/Users/alan.gordon/Documents/Alan/Javascript/.gitignore",
+		"/Users/alan.gordon/TestJupyter/Learning Jupiter Chapter 2.ipynb",
+		"/Users/alan.gordon/Documents/Alan/python_work/strings.py",
+		"/Users/alan.gordon/Documents/Alan/python_work/mathematics.py",
+		"/Users/alan.gordon/Documents/Alan/python_work/hello_world.py",
+		"/Users/alan.gordon/Library/Application Support/Sublime Text 3/Packages/User/Python3.sublime-build"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
