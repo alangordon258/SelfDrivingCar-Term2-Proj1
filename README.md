@@ -5,7 +5,7 @@
 Overview
 ---
 This repository contains my submission for the Extended Kalman Filter Project, which is part of the curriculum for term 2 of the Udacity Self-Driving Car Engineer Nanodegree Program. The goal of this project is to implement a Kalman Filter in C++ and verify its correct functioning using data provided by Udacity.
-![alt text](./ResultScreenshot.png)
+![alt text](./ResultScreenShot.png)
 
 [//]: # (Image References)
 
